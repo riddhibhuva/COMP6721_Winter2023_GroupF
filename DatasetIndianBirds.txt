@@ -1,0 +1,20 @@
+Dataset: https://www.kaggle.com/datasets/arjunbasandrai/25-indian-bird-species-with-226k-images
+
+
+Classes used:
+
+Poornaa B:\indian birds dataset\archive\training_set\2Jungle Babbler: 930 images
+Poornaa B:\indian birds dataset\archive\training_set\2Northern Lapwing: 930 images
+Poornaa B:\indian birds dataset\archive\training_set\2Red-Wattled Lapwing: 930 images
+Poornaa B:\indian birds dataset\archive\training_set\2Sarus Crane: 930 images
+Poornaa B:\indian birds dataset\archive\training_set\2White Wagtail: 930 images
+Poornaa B:\indian birds dataset\archive\training_set\2White-Breasted Kingfisher: 930 images
+Poornaa B:\indian birds dataset\archive\training_set\2White-Breasted Waterhen: 930 images
+Poornaa B:\indian birds dataset\archive\training_set\2Common Myna: 926 images
+Poornaa B:\indian birds dataset\archive\training_set\2Gray Wagtail: 926 images
+Poornaa B:\indian birds dataset\archive\training_set\2Indian Roller: 926 images
+Poornaa B:\indian birds dataset\archive\training_set\2Ruddy Shelduck: 925 images
+Poornaa B:\indian birds dataset\archive\training_set\2Asian Green Bee-Eater: 924 images
+Poornaa B:\indian birds dataset\archive\training_set\2Brown-Headed Barbet: 924 images
+Poornaa B:\indian birds dataset\archive\training_set\2Common Kingfisher: 924 images
+Poornaa B:\indian birds dataset\archive\training_set\2Forest Wagtail: 924 images
