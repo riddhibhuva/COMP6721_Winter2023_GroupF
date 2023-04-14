@@ -13,3 +13,9 @@ We have used Convolutional Neural Networks (CNNs) for building our classificatio
 We have achieved an accuracy of [%] on the test set using the ResNet-18 model. We have also compared the performance of other pre-trained models and reported their accuracies.
 
 # Files
+
+# Getting Started
+
+To run this project using Anaconda Navigator or Jupyter Notebook, you will first need to create a new environment with Python 3 installed and activate it. Then, clone the repository and install the required packages within the environment. Finally, you can click on "Run all" within the environment using Jupyter interface in the terminal or a run each code cell in Jupyter Notebook one by one.
+
+
