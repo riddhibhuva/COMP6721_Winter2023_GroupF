@@ -1,1 +1,0 @@
-This folder is dedicated to all the experiments we did on the models and with the datasets.
