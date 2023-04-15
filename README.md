@@ -23,3 +23,10 @@ To run this project using Anaconda Navigator or Jupyter Notebook, you will first
 
 We would like to thank the dataset authors for making the dataset available to the public.
 
+# References
+
+[1] G. Piosenka, “100 Bird Species,” Kaggle, 2021. [Online]. Available: https://www.kaggle.com/datasets/gpiosenka/100-bird-species. [Accessed: Feb. 8, 2023].
+
+[2] A. Basandrai, "25 Indian Bird Species with 226k+ Images," Kaggle, 2021. [Online]. Available: https://www.kaggle.com/arjunbasandrai/25-indian-bird-species-with-226k-images. [Accessed: 08-Feb-2023].
+
+[3] V. Krishna, "200 Bird Species With 11788 Images," Kaggle, 2019. [Online]. Available: https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-images. [Accessed: 08-Feb-2023].
