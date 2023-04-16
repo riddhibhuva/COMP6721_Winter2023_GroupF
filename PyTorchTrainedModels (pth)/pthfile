@@ -1,0 +1,1 @@
+.pth files are PyTorch model checkpoint files that contain the state of a PyTorch model's parameters at a particular point in time during training. These files allow the user to save the trained model and reload it at a later time to continue training or use the model for prediction on new data. The file extension ".pth" is short for "PyTorch".
