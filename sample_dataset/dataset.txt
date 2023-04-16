@@ -1,0 +1,1 @@
+This folder contains a sample of 100 images from each of the 3 datasets.
