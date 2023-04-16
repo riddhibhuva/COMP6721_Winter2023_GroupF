@@ -1,1 +1,8 @@
 This folder contains the different code where we performed ablation for better understanding of the project
+For this experiment, we decided to tweak the results we got from training our dataset 3 with Resnet18
+The default hyperprameters are:
+LR=0.001
+Optimizer=Adam
+Batch Size=32
+These hyperparameters achieved a test accuarcy of 25.2%
+For the scope of this experiment, one hyperparameter is changed while the others are kept constant to monitor how a specific hyperparameter affects the whole performance of the model.
