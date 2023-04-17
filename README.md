@@ -18,8 +18,14 @@ We have used Convolutional Neural Networks (CNNs) for building our classificatio
 
 We have achieved an accuracy of [%] on the test set using the ResNet-18 model. We have also compared the performance of other pre-trained models and reported their accuracies.
 
-# Files
+# Folders and Files
 
+ - PyTorchTrainedModels(.pth): This folder contains a few of the models trained by us from the scratch using pytorch
+ - Ablative_Study: This folder contains all the files wher we performed tweaking of hyperparameters in order to gain a better understanding of the            Artificial Intelligence concepts.
+ - Sample_dataset: This folder contains 100 randomly extracted images from the Dataset1 [https://www.kaggle.com/datasets/gpiosenka/100-bird-species.]
+ - updatedmodels: It contains 9 instances of training models from the scratch and 2 instances for transfer learning and 1 instance for optimization.
+ - Rest all the files that are not placed in any of the folders mentioned above, were part of the experiment process for this project and data           preprocessing.
+ 
 # Getting Started
 
 To run this project using Anaconda Navigator or Jupyter Notebook, you will first need to create a new environment with Python 3 installed and activate it. Then, clone the repository and install the required packages within the environment. Finally, you can click on "Run all" within the environment using Jupyter interface in the terminal or a run each code cell in Jupyter Notebook one by one.
