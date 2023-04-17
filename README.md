@@ -12,7 +12,7 @@ This project focuses on the classification of birds using deep learning techniqu
 
 # Methodology
 
-We have used Convolutional Neural Networks (CNNs) for building our classification models. Specifically, we have used models such as ResNet-18, VGG-16, and MobileNet, and compared their performance.
+We have used Convolutional Neural Networks (CNNs) for building our classification models. Specifically, we have used models such as ResNet-18, VGG-16, and MobileNetV2, and compared their performance.
 
 # Results
 
@@ -21,14 +21,14 @@ We have achieved an accuracy of [83%] on Dataset 2 [https://www.kaggle.com/arjun
 # Folders and Files
 
  - PyTorchTrainedModels(.pth): This folder contains a few of the models trained by us from the scratch using pytorch
- - Ablative_Study: This folder contains all the files wher we performed tweaking of hyperparameters in order to gain a better understanding of the            Artificial Intelligence concepts.
+ - Ablative_Study: This folder contains all the files wher we tweaked hyperparameters in order to gain a better understanding of the performance of various convolutional Neural Networks on different datasets        .
  - Sample_dataset: This folder contains 100 randomly extracted images from the Dataset1 [https://www.kaggle.com/datasets/gpiosenka/100-bird-species.]
  - updatedmodels: It contains 9 instances of training models from the scratch and 2 instances for transfer learning and 1 instance for optimization.
- - Rest all the files that are not placed in any of the folders mentioned above, were part of the experiment process for this project and data           preprocessing.
+ - Rest all the files that are not placed in any of the folders mentioned above, were part of the experiment process for this project and data preprocessing.
  
 # Getting Started
 
-To run this project using Anaconda Navigator or Jupyter Notebook, you will first need to create a new environment with Python 3 installed and activate it. Then, clone the repository and install the required packages within the environment. Finally, you can click on "Run all" within the environment using Jupyter interface in the terminal or a run each code cell in Jupyter Notebook one by one. [Note: Anaconda Navigator is a pre-requisite to run the files of this analytical study.]
+To run this project using Anaconda Navigator or Jupyter Notebook, you will first need to create a new environment with Python 3 installed and activate it. Then, clone the repository and install the required packages within the environment. Finally, you can click on "Run all" within the environment using Jupyter interface in the terminal or a run each code cell in Jupyter Notebook one by one. [Note: Anaconda Navigator is a pre-requisite to run the files of this analytical study.] To run on google colab, Open your Google Drive account in your web browser. Create a new folder or open an existing one where you want to store your .ipynb file. Upload your .ipynb file to the folder you just created or opened. Open a new tab in your web browser and go to https://colab.research.google.com. This will open Google Colab. In the "File" menu, click "Open notebook". In the "Upload" tab, select "From Google Drive". Find the folder where you uploaded your .ipynb file and select it.Select your .ipynb file and click "Open".Your .ipynb file will now open in Google Colab, and you can run the code cells by clicking the "play" button next to each cell or by pressing "Shift+Enter".
 
 
 # Acknowledgements
