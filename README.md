@@ -16,7 +16,7 @@ We have used Convolutional Neural Networks (CNNs) for building our classificatio
 
 # Results
 
-We have achieved an accuracy of [%] on the test set using the ResNet-18 model. We have also compared the performance of other pre-trained models and reported their accuracies.
+We have achieved an accuracy of [83%] on Dataset 2 [https://www.kaggle.com/arjunbasandrai/25-indian-bird-species-with-226k-images.] using the VGG16 model. We have also compared the performance of other pre-trained models and reported their accuracies in the ipynb files uploaded in "updatedmodels" folder.
 
 # Folders and Files
 
@@ -28,7 +28,7 @@ We have achieved an accuracy of [%] on the test set using the ResNet-18 model. W
  
 # Getting Started
 
-To run this project using Anaconda Navigator or Jupyter Notebook, you will first need to create a new environment with Python 3 installed and activate it. Then, clone the repository and install the required packages within the environment. Finally, you can click on "Run all" within the environment using Jupyter interface in the terminal or a run each code cell in Jupyter Notebook one by one.
+To run this project using Anaconda Navigator or Jupyter Notebook, you will first need to create a new environment with Python 3 installed and activate it. Then, clone the repository and install the required packages within the environment. Finally, you can click on "Run all" within the environment using Jupyter interface in the terminal or a run each code cell in Jupyter Notebook one by one. [Note: Anaconda Navigator is a pre-requisite to run the files of this analytical study.]
 
 
 # Acknowledgements
