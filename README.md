@@ -4,7 +4,7 @@
 
 This project focuses on the classification of birds using deep learning techniques. We have used three different datasets for training and validation of our models.
 
-![High Level Overview](https://github.com/riddhibhuva/COMP6721_Winter2023_GroupF/blob/main/Screenshot%202023-04-14%20at%208.06.13%20PM.png)
+![High Level Overview](https://github.com/riddhibhuva/COMP6721_Winter2023_GroupF/blob/main/Screenshot%202023-04-16%20at%208.59.00%20PM.png)
 
 # Datasets
 
